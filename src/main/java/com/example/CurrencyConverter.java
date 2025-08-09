@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class CurrencyConverter {
 
-    private static final String API_KEY = "YOUR-API-KEY"; // Substitua pela sua chave
+    private static final String API_KEY = "MY-API-KEY";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
     private static final String[] SUPPORTED_CURRENCIES = {"ARS", "BOB", "BRL", "CLP", "COP", "USD"};
 
